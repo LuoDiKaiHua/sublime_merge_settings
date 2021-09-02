@@ -2,7 +2,7 @@
 	"always_show_command_status": false,
 	"expand_merge_commits_by_default": true,
 	"font_face": "Source Code Pro",
-	"font_size": 11,
+	"font_size": 12,
 	"git_binary": "system",
 	"hardware_acceleration": "opengl",
 	"hide_menu": true,
