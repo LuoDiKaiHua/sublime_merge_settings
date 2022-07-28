@@ -2,6 +2,18 @@
     {
         "caption": "Open Containing Folder",
         "command": "open_dir",
-        "args": { "dir": "$working_dir" },
+        "args": {
+            "dir": "$working_dir"
+        },
+    },
+    {
+        "caption": "Open In Terminal",
+        "command": "git",
+        "args": {
+            "argv": [
+                "openinterminal",
+                "$working_dir"
+            ]
+        }
     }
 ]
