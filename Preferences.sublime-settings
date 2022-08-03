@@ -6,11 +6,11 @@
 	"git_binary": "system",
 	"hardware_acceleration": "opengl",
 	"hide_menu": true,
-	"render_commit_dialog_message_at_top": false,
+	"render_commit_dialog_message_at_top": true,
 	"show_tab_close_buttons": false,
 	"side_bar_layout": "tabs",
 	"theme": "auto",
 	"time_format": "24h",
 	"translate_tabs_to_spaces": true,
-	"themed_title_bar": true
+	"themed_title_bar": true,
 }
