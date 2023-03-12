@@ -1,6 +1,6 @@
 [
     {
-        "caption": "Open In Terminal",
+        "caption": "Open in Terminal",
         "command": "git",
         "args": {
             "argv": [
