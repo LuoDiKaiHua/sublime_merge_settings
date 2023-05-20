@@ -16,6 +16,5 @@
 	"theme": "auto",
 	"time_format": "24h",
 	"translate_tabs_to_spaces": true,
-	"themed_title_bar": true,
-	"auto_fetch_delay": 5,
+	"themed_title_bar": true
 }
