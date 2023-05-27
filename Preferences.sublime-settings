@@ -7,7 +7,7 @@
 		"directwrite",
 		"no_italic"
 	],
-	"git_binary": "system",
+	"git_binary": "git",
 	"hardware_acceleration": "opengl",
 	"hide_menu": true,
 	"render_commit_dialog_message_at_top": true,
@@ -16,5 +16,5 @@
 	"theme": "auto",
 	"time_format": "24h",
 	"translate_tabs_to_spaces": true,
-	"themed_title_bar": true
+	"themed_title_bar": true,
 }
