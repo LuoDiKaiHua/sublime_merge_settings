@@ -14,7 +14,7 @@ variables:
   hash: \b\h{7,}\b
   # Rebase operations
   shortcut: '[defprsx]'
-  operator: \b(?:drop|edit|exec|fixup|pick|reword|squash|{{shortcut}})\b
+  operator: \b(?:build|chore|docs|feat|fix|perf|refactor|revert|style|test|{{shortcut}})\b
   # The following variables are required to support highlighting of special phrases
   # in the git commit messages for all supported languages.
   # Source: https://github.com/git/git/tree/master/po
