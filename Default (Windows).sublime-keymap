@@ -1,7 +1,14 @@
 [
     {
-        "keys": ["ctrl+alt+shift+down"],
+        "keys": [
+            "ctrl+alt+shift+down"
+        ],
         "command": "git",
-        "args": {"argv": ["fetch", "--prune"]}
+        "args": {
+            "argv": [
+                "fetch",
+                "--prune"
+            ]
+        }
     }
 ]
