@@ -10,6 +10,7 @@
 	"git_binary": "git",
 	"hardware_acceleration": "opengl",
 	"hide_menu": true,
+	"highlight_line_number": true,
 	"render_commit_dialog_message_at_top": true,
 	"show_tab_close_buttons": false,
 	"side_bar_layout": "tabs",
