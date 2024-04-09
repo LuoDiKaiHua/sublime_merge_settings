@@ -1,6 +1,6 @@
 [
     {
-        "caption": "Open in Terminal",
+        "caption": "Open Repository in Windows Terminal",
         "command": "git",
         "args": {
             "argv": [
