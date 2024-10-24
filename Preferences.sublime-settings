@@ -1,12 +1,12 @@
 {
 	"always_show_command_status": false,
 	"expand_merge_commits_by_default": true,
-	// "font_face": "FiraCode Nerd Font Mono",
-	"font_face": "NotoSansM NFM",
-	"font_size": 10,
+	// "font_face": "NotoSansM NFM",
+	"font_face": "MonoLisa Nerd Font Mono",
+	"font_size": 12,
 	"font_options": [
 		"directwrite",
-		"no_italic"
+		// "no_italic"
 	],
 	"git_binary": "git",
 	"hardware_acceleration": "opengl",
