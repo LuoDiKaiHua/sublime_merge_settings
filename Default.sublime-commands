@@ -1,10 +1,10 @@
 [
     {
-        "caption": "Open Repository in Windows Terminal",
+        "caption": "Open Repository in Terminal",
         "command": "git",
         "args": {
             "argv": [
-                "open-with-wt",
+                "open-in-terminal",
                 "$working_dir"
             ]
         }
