@@ -1,12 +1,2 @@
 [
-  {
-      "caption": "Open in Terminal",
-      "command": "git",
-      "args": {
-          "argv": [
-              "open-in-terminal",
-              "$working_dir"
-          ]
-      }
-  },
 ]
